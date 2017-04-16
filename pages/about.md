@@ -2,24 +2,24 @@
 layout: page
 title: About Me
 description: 个人简介
-keywords: 高语越
+keywords: 王萌
 comments: true
 menu: 关于我
 permalink: /about/
 ---
 
-I'm Yuyue Gao
+Meng is my name;
 
 
-## 神奇的高先生
+## 低调的萌
 
-* 不为失败找借口，只为成功找方法。
+* 努力和效果之间，永远有这样一段距离。成功和失败的唯一区别是，你能不能坚持挺过这段无法估计的距离。
 
 ## 联系我
 
-* GitHub：[@gaoyuyue](https://github.com/gaoyuyue)
+* GitHub：[@jackwangmeng](https://github.com/jackwangmeng)
 * 博客：[{{ site.title }}]({{ site.url }})
-* Email：gaoyuyue@outlook.com
+* Email：jackwangmeng@outlook.com
 
 ## Skill Keywords
 
