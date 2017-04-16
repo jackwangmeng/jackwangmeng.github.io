@@ -2,26 +2,26 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://gaoyuyue.github.io/
+url: https://jackwangmeng.github.io/
 date_format: "ordinal"
-title: Yuyue Gao
+title: Meng
 subtitle: "Imagination is more valuable than knowledge"
-description: "高语越的个人博客"
+description: "王萌的个人博客"
 keywords: 高语越
 favicon: /favicon.ico
 timezone: Asia/Tangshan
 encoding: "utf-8"
-source_code: https://github.com/gaoyuyue/gaoyuyue.github.com
+source_code: https://github.com/jackwangmeng/jackwangmeng.github.com
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 高语越
+author: 王萌
 organization: ncst.edu.cn
 organization_url: http://www.ncst.edu.cn/
 location: Hebei, China
-email: gaoyuyue@outlook.com
+email: jackwangmeng@outlook.com
 
 # ---------------- #
 #    Navigation    #
@@ -76,11 +76,11 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: gaoyuyue
+github_username: jackwangmeng
 # facebook_username: rockcat
-# weibo_username: gaoyuyue
-# zhihu_username: gaoyuyue
-# twitter_username: gaoyuyue
+# weibo_username: jackwangmeng
+# zhihu_username: jackwangmeng
+# twitter_username: jackwangmeng
 
 # ---------------- #
 #      Comments    #
@@ -101,5 +101,5 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_language_keywords: [Java, Python, Scala, C, C++]
-skill_web_app_keywords: [javaEE, Spring ,Spring MVC ,JPA , Hibernate , Shiro ,Redis ,Spring Data, MySql, Play]
+skill_language_keywords: [Java, Python, Linux, C, C++,R]
+skill_web_app_keywords: [javaEE, Spring ,Spring MVC ,JPA , Hibernate , Shiro ,Spring Security,Spring Boot,Mysql,Sql Server,Deep Learning]
