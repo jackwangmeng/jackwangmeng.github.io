@@ -4,6 +4,7 @@ title: 词嵌入
 description: word embedding
 category: 深度学习
 ---
+## 词嵌入
 
 word embedding的意思是：给出一个文档，文档就是一个单词序列比如 “A B A C B F G”, 希望对文档中每个不同的单词都得到一个对应的向量
 (往往是低维向量)表示。比如，对于这样的“A B A C B F G”的一个序列，也许我们最后能得到：A对应的向量为[0.1 0.6 -0.5]，B对应的向量为[-0.2 0.9 0.7]  
@@ -17,7 +18,7 @@ AAAI2015的时候问过Hinton怎么看google的word2vec，他说自己20年前�
 paper：“Efficient Estimation of Word Representations in Vector Space”、“Distributed Representations of Words and Phrases and their Compositionality”。
 这两篇paper中提出了一个word2vec的工具包，里面包含了几种word embedding的方法，这些方法有两个特点。一个特点是速度快，另一个特点是得到的embedding vectors具备analogy性质。
 analogy性质类似于“A-B=C-D”这样的结构，举例说明：“北京-中国 = 巴黎-法国”。Tomas Mikolov认为具备这样的性质，则说明得到的embedding vectors性质非常好，能够model到语义。
-这两篇paper是2013年的工作，至今(2015.8)，这两篇paper的引用量早已经超好几百，足以看出其影响力很大。当然，word embedding的方案还有很多，常见的word embedding的方法有:
+这两篇paper是2013年的工作，至今(2015.8)，这两篇paper的引用量早已经超好几百，足以看出其影响力很大。当然，word embedding的方案还有很多，常见的## ## word embedding的方法有:
 1. Distributed Representations of Words and Phrases and their Compositionality
 2. Efficient Estimation of Word Representations in Vector Space
 3. GloVe Global Vectors forWord Representation
@@ -27,7 +28,7 @@ analogy性质类似于“A-B=C-D”这样的结构，举例说明：“北京-�
 7. A scalable hierarchical distributed language model
 8. Three new graphical models for statistical language modelling
 9. Improving word representations via global context and multiple word prototypesword2vec中的模型至今(2015.8)还是存在不少未解之谜，
-因此就有不少papers尝试去解释其中一些谜团，或者建立其与其他模型之间的联系，
+## 因此就有不少papers尝试去解释其中一些谜团，或者建立其与其他模型之间的联系，
 下面是paper list
 1. Neural Word Embeddings as Implicit Matrix Factorization
 2. Linguistic Regularities in Sparse and Explicit Word Representation
